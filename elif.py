@@ -1,3 +1,4 @@
+##elif example## elif will not allow to run next line once elif condition satisfied##
 score=int(input("Enter your score:"))
 if(score<35):
     print("Poor student")
